@@ -116,7 +116,7 @@ The following websites state that no vaccines are currently available, but to ch
 
 ## **NJ Vaccine Scheduling System (NJVSS)**
 
-The following locations use the [**NJ Vaccine Scheduling System (NJVSS)**](https://covidvaccine.nj.gov/covid-19%20vaccine/) for their scheduling.
+The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS)**](https://covidvaccine.nj.gov/covid-19%20vaccine/) for their scheduling.
 
 [**AtlanticCare** (Atlantic)](https://www.atlanticare.org/patients-and-visitors/coronavirus-safety-and-information/covid-vaccination-distribution-information)
 
