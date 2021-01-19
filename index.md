@@ -1,4 +1,4 @@
-# NJ COVID-19 Vaccination Location Guide
+# NJ COVID-19 Vaccination Unofficial Location Guide
 
 This page is an attempt to parse the information from the official NJ location list into a format that's easier to act on, by consolidating and sorting the locations. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. *The information on this page was last updated Jan. 18.*
 
