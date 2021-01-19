@@ -56,6 +56,8 @@ In addition to this location information, I also have a **[list of past webinars
 
 [**Virtua Health - Burlington Co. megasite**](https://www.virtua.org/vaccine)
 
+[**Riverside Medical Group** (Camden & Essex)](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800)
+
 [**Hudson County**](http://hudsoncovidvax.org/)
 
 [**RWJBarnabas Health - Middlesex Co. megasite**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/)
@@ -152,8 +154,6 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 [**Liss Pharmacy** (Essex)](https://www.lisspharmacy.com/)
 
 [**Project Hope** (Camden)](http://projecthopecamden.org/)
-
-[**Riverside Medical Group** (Camden & Essex)](https://www.riversidemedgroup.com/)
 
 [**Hamilton** (Mercer)](https://hamiltonnj.com/health)
 
