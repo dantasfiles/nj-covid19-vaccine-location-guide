@@ -139,7 +139,7 @@ The following locations use the [**NJ Vaccine Scheduling System (NJVSS)**](https
 ---
 
 ## **Unknown**
-The following websites were listed as vaccine locations, but I couldn't find any information on their websites.
+The following sites were listed as vaccine locations, but I couldn't find any information on their websites.
 
 [**Liss Pharmacy** (Essex)](https://www.lisspharmacy.com/)
 
