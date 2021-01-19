@@ -10,7 +10,7 @@ In addition to this location information, I also have a **[list of past webinars
 
 ## **Search for appointments on online scheduling system**
 
-[**Hackensack Meridian Health** (many locations across NJ)](https://www.hackensackmeridianhealth.org/covid19-3/)
+[**Hackensack Meridian Health** (many locations across NJ, often updates at midnight)](https://www.hackensackmeridianhealth.org/covid19-3/)
 
 [**Southern Jersey Family Medical Centers** (Atlantic, Burlington, Salem)](https://www.sjfmc.org)
 
