@@ -114,7 +114,7 @@ The following websites state that no vaccines are currently available, but to ch
 
 ---
 
-## NJ Vaccine Scheduling System (NJVSS)
+## **NJ Vaccine Scheduling System (NJVSS)**
 
 The following locations use the [**NJ Vaccine Scheduling System (NJVSS)**](https://covidvaccine.nj.gov/covid-19%20vaccine/) for their scheduling.
 
