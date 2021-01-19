@@ -1,6 +1,6 @@
 # NJ COVID-19 Vaccination Unofficial Location Guide
 
-This page is an attempt to parse the information from the official NJ location list into a format that's easier to act on, by consolidating and sorting the locations. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. *The information on this page was last updated Jan. 19.*
+This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. *The information on this page was last updated Jan. 19.*
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
 
@@ -36,7 +36,7 @@ In addition to this location information, I also have a **[list of past webinars
 
 [**Ocean Health Initiatives** (Monmouth & Ocean)](https://ohinj.org/vaccine-consent-landing/)
 
-[**Ocean County**](https://www.ochd.org/covid19-vaccine-eligibility-info/)
+[**Ocean County**](https://www.ochd.org/covid19-vaccine-update/)
 
 [**CHEMED** (Ocean)](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/)
 
