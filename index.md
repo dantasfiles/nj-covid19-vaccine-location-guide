@@ -14,7 +14,7 @@ In addition to this location information, I also have a **[list of past webinars
 
 [**Southern Jersey Family Medical Centers** (Atlantic, Burlington, Salem)](https://www.sjfmc.org)
 
-[**Bergen County** (currently under maintenance)](https://www.co.bergen.nj.us/)
+[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information)
 
 [**Camden County**](https://www.camdencounty.com/vaccineregistration/)
 
@@ -99,6 +99,8 @@ The following websites state that no vaccines are currently available, but to ch
 
 [**MediLink RxCare** (Atlantic)](https://medilinkrxcare.com/)
 
+[**Bergen County** (currently under maintenance)](https://www.co.bergen.nj.us/)
+
 [**Holy Name** (Bergen)](https://holyname.org/covid19)
 
 [**Haworth Apothecary** (Bergen)](https://haworthapothecary.com/covid-19-vaccine)
@@ -148,8 +150,6 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 The following sites were listed as vaccine locations, but I couldn't find any information on their websites.
 
 [**Liss Pharmacy** (Essex)](https://www.lisspharmacy.com/)
-
-[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information)
 
 [**Project Hope** (Camden)](http://projecthopecamden.org/)
 
