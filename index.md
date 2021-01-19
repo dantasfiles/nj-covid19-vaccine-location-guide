@@ -4,7 +4,7 @@ This page is an attempt to parse the information from the official NJ location l
 
 > This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information. 
 
-In addition to this location information, I have a **[list of past webinars on NJ vaccine distribution](presentations)**
+In addition to this location information, I also have a **[list of past webinars on NJ vaccine distribution](presentations)**
 
 ---
 
