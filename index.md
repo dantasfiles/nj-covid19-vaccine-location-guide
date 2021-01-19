@@ -26,6 +26,8 @@ In addition to this location information, I also have a **[list of past webinars
 
 [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html)
 
+[**Penn Medicine Princeton Health** (Mercer)](https://www.princetonhcs.org/)
+
 [**Monmouth County** (email waitlist also available)](https://www.co.monmouth.nj.us/page.aspx?ID=1932)
 
 [**VNACJ Community Health Center** (Monmouth)](https://vnachc.org/)
