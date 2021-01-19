@@ -107,6 +107,8 @@ The following websites state that no vaccines are currently available, but to ch
 
 [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480)
 
+[**Summit Medical Group** (Union)](https://www.summitmedicalgroup.com/coronavirus-updates)
+
 ---
 
 ## **Only for Current Patients** 
