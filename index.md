@@ -109,6 +109,10 @@ The following websites state that no vaccines are currently available, but to ch
 
 [**Boyd's Pharmacy** (Burlington)](https://boydsrxs.com/)
 
+[**JRF Community Health** (Middlesex)](https://www.jrfnj.org/)
+
+[**JRMC** (Middlesex)](https://jrmc.us/) 
+
 [**Long Beach Island** (Ocean)](http://lbihealth.com/covid-19/)
 
 [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480)
@@ -142,6 +146,8 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 
 [**Woodbridge** (Middlesex)](https://www.twp.woodbridge.nj.us/198/Health-Human-Services)
 
+[**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview)
+
 [**Clifton** (Passaic)](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19)
 
 [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination)
@@ -158,12 +164,6 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 [**Hamilton** (Mercer)](https://hamiltonnj.com/health)
 
 [**InFocus Urgent Care** (Mercer)](https://www.infocusurgentcare.org/)
-
-[**JRMC** (Middlesex)](https://jrmc.us/) 
-
-[**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview)
-
-[**JRF Community Health** (Middlesex)](https://www.jrfnj.org/)
 
 [**Long Beach Island** (Ocean)](http://lbihealth.com/)
 
