@@ -72,7 +72,7 @@ In addition to this location information, I also have a **[list of past webinars
 
 [**Paramus** (Bergen)](https://www.paramusborough.org/)
 
-[**CAMCare Health (Camden)**](https://twitter.com/CAMcareWeCare/status/1349416039466094592)
+[**CAMCare Health** (Camden)](https://www.camcare.net/)
 
 [**Newark** (Essex)](https://www.newarknj.gov/departments/healthcommunitywellness)
 
