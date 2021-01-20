@@ -67,20 +67,20 @@ In addition to this location information, I also have a **[list of past webinars
 ## **Not currently available**
 The following websites state that no vaccines are currently available, but to check back later.
 
-| Site | County | Special | 
-| --- | --- | --- |
-| [**Shoprite**](https://vaccines.shoprite.com/) | Many | | 
-| [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic | |
-| [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic | | 
-| [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen | | 
-| [**Holy Name**](https://holyname.org/covid19) | Bergen | | 
-| [**Haworth Apothecary**](https://haworthapothecary.com/covid-19-vaccine) | Bergen | |
-| [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington | | 
-| [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex | | 
-| [**JRMC**](https://jrmc.us/) | Middlesex | | 
-| [**Long Beach Island** (Ocean)](http://lbihealth.com/covid-19/) | Ocean | |
-| [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | | 
-| [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union | | 
+| Site | County | 
+| --- | --- |
+| [**Shoprite**](https://vaccines.shoprite.com/) | Many |
+| [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic |
+| [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
+| [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
+| [**Holy Name**](https://holyname.org/covid19) | Bergen |
+| [**Haworth Apothecary**](https://haworthapothecary.com/covid-19-vaccine) | Bergen |
+| [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
+| [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex |
+| [**JRMC**](https://jrmc.us/) | Middlesex |
+| [**Long Beach Island** (Ocean)](http://lbihealth.com/covid-19/) | Ocean |
+| [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex |
+| [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union |
 
 ---
 
