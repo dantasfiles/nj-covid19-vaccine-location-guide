@@ -48,19 +48,18 @@ In addition to this location information, I also have a **[list of past webinars
 ---
 
 ## **Phone for possible appointments**
+**Check your eligibility on the websites *before* you call**
 
-| Site | County | Special | 
-| --- | --- | --- |
-| [**NJ Vaccine Scheduling System** (phone version)](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/where-how-and-when-can-i-get-vaccinated) | NJ | | 
-| [**Teaneck**](https://www.teanecknj.gov/) | Bergen | | 
-| [**Paramus**](https://www.paramusborough.org/) | Bergen | |
-| [**CAMCare Health** (Camden)](https://www.camcare.net/) | Camden | | 
-| [**Newark**](https://www.newarknj.gov/departments/healthcommunitywellness) | Essex | | 
-| [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | | 
-| [**North Hudson Community Action**](https://nhcac.org/) | Hudson | | 
-| [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | | 
-| [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | |
-| [**Salem County**](https://health.salemcountynj.gov/) | Salem | | 
+| Site | County |
+| --- | --- |
+| [**NJ Vaccine Scheduling System** (phone version)](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/where-how-and-when-can-i-get-vaccinated) | NJ | 855-568-0545| 
+| [**Teaneck**](https://www.teanecknj.gov/) | Bergen |
+| [**CAMCare Health**](https://www.camcare.net/) | Camden | 856-583-2400 | 
+| [**Newark**](https://www.newarknj.gov/departments/healthcommunitywellness) | Essex |973-733-7580 or 973-558-3459 | 
+| [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | 973-323-3669 | 
+| [**North Hudson Community Action**](https://nhcac.org/) | Hudson | 201-210-0200 | 
+| [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | 551-220-4880 | 
+| [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | 908-237-4238 |
 
 ---
 
@@ -73,14 +72,17 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic |
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
 | [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
+| [**Paramus**](https://www.paramusborough.org/) | Bergen |
 | [**Holy Name**](https://holyname.org/covid19) | Bergen |
 | [**Haworth Apothecary**](https://haworthapothecary.com/covid-19-vaccine) | Bergen |
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
 | [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex |
 | [**JRMC**](https://jrmc.us/) | Middlesex |
 | [**Long Beach Island** (Ocean)](http://lbihealth.com/covid-19/) | Ocean |
+| [**Salem County**](https://health.salemcountynj.gov/) | Salem |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex |
 | [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union |
+
 
 ---
 
