@@ -95,19 +95,21 @@ The following websites state that no vaccines are currently available, but to ch
 ## **NJ Vaccine Scheduling System (NJVSS)**
 The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS)**](https://covidvaccine.nj.gov/covid-19%20vaccine/) for their scheduling.
 
-| Site | County |
-| --- | --- |
-| [**AtlanticCare**](https://www.atlanticare.org/patients-and-visitors/coronavirus-safety-and-information/covid-vaccination-distribution-information) | Atlantic | 
-| [**Cape May County**](https://capemaycountynj.gov/226/Health-Department) | Cape May |
-| [**Inspira Health**](https://www.inspirahealthnetwork.org/news/covid-19-vaccine-update) | Cumberland |
-| [**North Bergen**](https://www.northbergen.org/Departments/health) | Hudson | 
-| [**Henry J. Austin Health Center** (Mercer)](https://henryjaustin.org/covid/) | Mercer |
-| [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex |
-| [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex |
-| [**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | 
-| [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean |  
-| [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | 
-| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset |
+| Site | County | Special |
+| --- | --- | --- |
+| [**AtlanticCare**](https://www.atlanticare.org/patients-and-visitors/coronavirus-safety-and-information/covid-vaccination-distribution-information) | Atlantic | |  
+| [**Cape May County**](https://capemaycountynj.gov/226/Health-Department) | Cape May | | 
+| [**Inspira Health**](https://www.inspirahealthnetwork.org/news/covid-19-vaccine-update) | Cumberland | | 
+| [**Gloucester County**](https://www.gloucestercountynj.gov/1168/COVID-19-Vaccinations) | Gloucester | Megasite | 
+| [**Rowan College of South Jersey**](https://www.rcsj.edu/vaccine) | Gloucester | Megasite | 
+| [**North Bergen**](https://www.northbergen.org/Departments/health) | Hudson |  | 
+| [**Henry J. Austin Health Center** (Mercer)](https://henryjaustin.org/covid/) | Mercer | | 
+| [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex | | 
+| [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex | | 
+| [**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | | 
+| [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean | | 
+| [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic |  | 
+| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | |
 
 ---
 
