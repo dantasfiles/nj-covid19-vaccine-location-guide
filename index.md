@@ -40,7 +40,7 @@ In addition to this location information, I also have a **[list of past webinars
 | --- | --- | --- |
 |[**NJ Vaccine Scheduling System** (web version)](https://covidvaccine.nj.gov/covid-19%20vaccine/)| NJ | |
 | [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Megasite | 
-| [**Riverside Medical Group** (Camden & Essex)](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
+| [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
@@ -68,29 +68,20 @@ In addition to this location information, I also have a **[list of past webinars
 ## **Not currently available**
 The following websites state that no vaccines are currently available, but to check back later.
 
-[**Shoprite** (many locations)](https://vaccines.shoprite.com/)
-
-[**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp)
-
-[**MediLink RxCare** (Atlantic)](https://medilinkrxcare.com/)
-
-[**Bergen County** (currently under maintenance)](https://www.co.bergen.nj.us/)
-
-[**Holy Name** (Bergen)](https://holyname.org/covid19)
-
-[**Haworth Apothecary** (Bergen)](https://haworthapothecary.com/covid-19-vaccine)
-
-[**Boyd's Pharmacy** (Burlington)](https://boydsrxs.com/)
-
-[**JRF Community Health** (Middlesex)](https://www.jrfnj.org/)
-
-[**JRMC** (Middlesex)](https://jrmc.us/) 
-
-[**Long Beach Island** (Ocean)](http://lbihealth.com/covid-19/)
-
-[**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480)
-
-[**Summit Medical Group** (Union)](https://www.summitmedicalgroup.com/coronavirus-updates)
+| Site | County | Special | 
+| --- | --- | --- |
+| [**Shoprite**](https://vaccines.shoprite.com/) | Many | | 
+| [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic | |
+| [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic | | 
+| [**Bergen County** (currently under maintenance)](https://www.co.bergen.nj.us/) | Bergen | | 
+| [**Holy Name** (Bergen)](https://holyname.org/covid19) | Bergen | | 
+| [**Haworth Apothecary** (Bergen)](https://haworthapothecary.com/covid-19-vaccine) | Bergen | |
+| [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington | | 
+| [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex | | 
+| [**JRMC**](https://jrmc.us/) | Middlesex | | 
+| [**Long Beach Island** (Ocean)](http://lbihealth.com/covid-19/) | Ocean | |
+| [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | | 
+| [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union | | 
 
 ---
 
