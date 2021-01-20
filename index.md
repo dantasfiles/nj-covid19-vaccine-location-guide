@@ -65,7 +65,7 @@ In addition to this location information, I also have a **[list of past webinars
 ---
 
 ## **Not currently available**
-The following websites state that no vaccines are currently available, but to check back later.
+The following websites state that no vaccines are currently available, but to check back later. Many of them probably belong in the "online scheduling system" section, but I'm leaving them in this separate section until it's clear how they work.
 
 | Site | County | 
 | --- | --- |
