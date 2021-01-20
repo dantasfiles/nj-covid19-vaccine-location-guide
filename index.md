@@ -106,7 +106,7 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 | [**Henry J. Austin Health Center** (Mercer)](https://henryjaustin.org/covid/) | Mercer | | 
 | [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex | | 
 | [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex | | 
-| [**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | | 
+| [**Rutgers Eric B. Chandler Health Center**](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | | 
 | [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean | | 
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic |  | 
 | [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | |
