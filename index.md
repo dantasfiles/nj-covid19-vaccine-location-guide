@@ -35,20 +35,15 @@ In addition to this location information, I also have a **[list of past webinars
 ---
 
 ## **Sign up for email alerts**
-
-[**NJ Vaccine Scheduling System** (web version)](https://covidvaccine.nj.gov/covid-19%20vaccine/)
-
-[**Virtua Health - Burlington Co. megasite**](https://www.virtua.org/vaccine)
-
-[**Riverside Medical Group** (Camden & Essex)](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800)
-
-[**Hudson County**](http://hudsoncovidvax.org/)
-
-[**RWJBarnabas Health - Middlesex Co. megasite**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/)
-
-[**Atlantic Health** (Morris & Union, including Morris Co. megasite)](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts)
-
-[**Princeton** (Mercer)](http://www.princetonnj.gov/)
+| Site | County | Special | 
+| --- | --- | --- |
+|[**NJ Vaccine Scheduling System** (web version)](https://covidvaccine.nj.gov/covid-19%20vaccine/)| NJ | |
+| [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Megasite | 
+| [**Riverside Medical Group** (Camden & Essex)](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
+| [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
+| [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
+| [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
+| [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris & Union | Megasite | 
 
 ---
 
