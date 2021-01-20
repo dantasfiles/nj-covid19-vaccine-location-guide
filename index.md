@@ -12,7 +12,7 @@ In addition to this location information, I also have a **[list of past webinars
 
 | Site | County | Special | 
 | --- | --- | --- |
-| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Adds many slots each midnight |
+| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Updates throughout day and adds many slots at midnight |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
 |[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
 | [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
@@ -21,7 +21,6 @@ In addition to this location information, I also have a **[list of past webinars
 | [**Vineland**](http://health.vinelandcity.org/vaccination-registration/) | Cumberland | | 
 | [**Essex County**](https://www.essexcovid.org/) | Essex | |
 | [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
-| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | |
 | [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | Email waitlist also available | 
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
@@ -43,6 +42,7 @@ In addition to this location information, I also have a **[list of past webinars
 | [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
+| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | |
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
 | [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris & Union | Megasite | 
 
