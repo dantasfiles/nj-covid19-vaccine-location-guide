@@ -10,43 +10,27 @@ In addition to this location information, I also have a **[list of past webinars
 
 ## **Search for appointments on online scheduling system**
 
-[**Hackensack Meridian Health** (many locations across NJ, updates throughout the day but most frequently at midnight)](https://www.hackensackmeridianhealth.org/covid19-3/)
-
-[**Southern Jersey Family Medical Centers** (Atlantic, Burlington, Salem)](https://www.sjfmc.org)
-
-[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information)
-
-[**Camden County**](https://www.camdencounty.com/vaccineregistration/)
-
-[**Rowan Medicine** (Camden)](https://rowanmedicine.com/vaccine/)
-
-[**Cumberland County**](http://www.co.cumberland.nj.us/ccdoh)
-
-[**Vineland** (Cumberland)](http://health.vinelandcity.org/vaccination-registration/)
-
-[**Essex County**](https://www.essexcovid.org/)
-
-[**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html)
-
-[**Penn Medicine Princeton Health** (Mercer)](https://www.princetonhcs.org/)
-
-[**Monmouth County** (email waitlist also available)](https://www.co.monmouth.nj.us/page.aspx?ID=1932)
-
-[**VNACJ Community Health Center** (Monmouth)](https://vnachc.org/)
-
-[**Ocean Health Initiatives** (Monmouth & Ocean)](https://ohinj.org/vaccine-consent-landing/)
-
-[**Ocean County**](https://www.ochd.org/covid19-vaccine-update/)
-
-[**CHEMED** (Ocean)](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/)
-
-[**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination)
-
-[**Wayne** (Passaic)](https://www.waynetownship.com/covid-19-vaccine-consent.html)
-
-[**Union County**](https://ucnjvaccine.org/)
-
-[**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html)
+| Site | County | Special | 
+| --- | --- | --- |
+| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19-3/) | Many | |
+| [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | We have temporarily closed our COVID-19 Vaccine registration site | 
+|[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
+| [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
+| [**Rowan Medicine**](https://rowanmedicine.com/vaccine/) | Camden | |
+| [**Cumberland County**](http://www.co.cumberland.nj.us/ccdoh) | Cumberland | | 
+| [**Vineland**](http://health.vinelandcity.org/vaccination-registration/) | Cumberland | | 
+| [**Essex County**](https://www.essexcovid.org/) | Essex | |
+| [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
+| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | |
+| [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | Email waitlist also available | 
+| [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
+| [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | We have temporarily closed our vaccine registration site | 
+| [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean | COVID-19 CLINIC APPOINTMENTS ARE BOOKED FULL AT THIS TIME - MOVE TO NONE | 
+| [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | Our scheduling application is not available | 
+| [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
+| [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
+| [**Union County**](https://ucnjvaccine.org/) | Union | | 
+| [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
 
 ---
 
