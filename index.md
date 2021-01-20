@@ -85,6 +85,7 @@ The following websites state that no vaccines are currently available, but to ch
 ---
 
 ## **Only for Current Patients** 
+
 | Site | County |
 | --- | --- |
 | [**Vanguard Medical**](https://vanguardmedgroup.com/) | Essex | 
