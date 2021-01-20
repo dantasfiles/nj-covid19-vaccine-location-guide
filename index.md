@@ -28,6 +28,7 @@ In addition to this location information, I also have a **[list of past webinars
 | [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | Registration temporarily closed | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
+| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Opens sporadically |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
 | [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
 
@@ -112,7 +113,6 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 | [**Rutgers Eric B. Chandler Health Center**](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | | 
 | [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean | | 
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic |  | 
-| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | |
 
 ---
 
