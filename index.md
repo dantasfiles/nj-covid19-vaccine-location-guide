@@ -72,9 +72,9 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Shoprite**](https://vaccines.shoprite.com/) | Many | | 
 | [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic | |
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic | | 
-| [**Bergen County** (currently under maintenance)](https://www.co.bergen.nj.us/) | Bergen | | 
-| [**Holy Name** (Bergen)](https://holyname.org/covid19) | Bergen | | 
-| [**Haworth Apothecary** (Bergen)](https://haworthapothecary.com/covid-19-vaccine) | Bergen | |
+| [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen | | 
+| [**Holy Name**](https://holyname.org/covid19) | Bergen | | 
+| [**Haworth Apothecary**](https://haworthapothecary.com/covid-19-vaccine) | Bergen | |
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington | | 
 | [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex | | 
 | [**JRMC**](https://jrmc.us/) | Middlesex | | 
