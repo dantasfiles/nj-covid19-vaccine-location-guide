@@ -12,7 +12,7 @@ In addition to this location information, I also have a **[list of past webinars
 
 | Site | County | Special | 
 | --- | --- | --- |
-| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19-3/) | Many | |
+| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19-3/) | Many | Adds appts at midnight |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
 |[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
 | [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
