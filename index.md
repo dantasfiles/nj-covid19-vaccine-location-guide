@@ -35,6 +35,7 @@ In addition to this location information, I also have a **[list of past webinars
 ---
 
 ## **Sign up for email alerts**
+
 | Site | County | Special | 
 | --- | --- | --- |
 |[**NJ Vaccine Scheduling System** (web version)](https://covidvaccine.nj.gov/covid-19%20vaccine/)| NJ | |
@@ -48,6 +49,7 @@ In addition to this location information, I also have a **[list of past webinars
 ---
 
 ## **Phone for possible appointments**
+
 | Site | County | Special | 
 | --- | --- | --- |
 | [**NJ Vaccine Scheduling System** (phone version)](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/where-how-and-when-can-i-get-vaccinated) | NJ | | 
