@@ -86,52 +86,42 @@ The following websites state that no vaccines are currently available, but to ch
 ---
 
 ## **Only for Current Patients** 
-[**Vanguard Medical** (Essex)](https://vanguardmedgroup.com/)
-
-[**Zufall Health** (Morris)](https://www.zufallhealth.org/)
+| Site | County |
+| --- | --- |
+| [**Vanguard Medical**](https://vanguardmedgroup.com/) | Essex | 
+| [**Zufall Health**](https://www.zufallhealth.org/) | Morris | 
 
 ---
 
 ## **NJ Vaccine Scheduling System (NJVSS)**
-
 The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS)**](https://covidvaccine.nj.gov/covid-19%20vaccine/) for their scheduling.
 
-[**AtlanticCare** (Atlantic)](https://www.atlanticare.org/patients-and-visitors/coronavirus-safety-and-information/covid-vaccination-distribution-information)
-
-[**Cape May County**](https://capemaycountynj.gov/226/Health-Department)
-
-[**Inspira Health** (Cumberland)](https://www.inspirahealthnetwork.org/news/covid-19-vaccine-update)
-
-[**North Bergen** (Hudson)](https://www.northbergen.org/Departments/health)
-
-[**Henry J. Austin Health Center** (Mercer)](https://henryjaustin.org/covid/)
-
-[**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx)
-
-[**Woodbridge** (Middlesex)](https://www.twp.woodbridge.nj.us/198/Health-Human-Services)
-
-[**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview)
-
-[**Clifton** (Passaic)](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19)
-
-[**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination)
+| Site | County |
+| --- | --- |
+| [**AtlanticCare**](https://www.atlanticare.org/patients-and-visitors/coronavirus-safety-and-information/covid-vaccination-distribution-information) | Atlantic | 
+| [**Cape May County**](https://capemaycountynj.gov/226/Health-Department) | Cape May |
+| [**Inspira Health**](https://www.inspirahealthnetwork.org/news/covid-19-vaccine-update) | Cumberland |
+| [**North Bergen**](https://www.northbergen.org/Departments/health) | Hudson | 
+| [**Henry J. Austin Health Center** (Mercer)](https://henryjaustin.org/covid/) | Mercer |
+| [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex |
+| [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex |
+| [**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | 
+| [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | 
+| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset |
 
 ---
 
 ## **Unknown**
 The following sites were listed as vaccine locations, but I couldn't find any information on their websites.
 
-[**Liss Pharmacy** (Essex)](https://www.lisspharmacy.com/)
-
-[**Project Hope** (Camden)](http://projecthopecamden.org/)
-
-[**Hamilton** (Mercer)](https://hamiltonnj.com/health)
-
-[**InFocus Urgent Care** (Mercer)](https://www.infocusurgentcare.org/)
-
-[**Long Beach Island** (Ocean)](http://lbihealth.com/)
-
-[**Paterson** (Passaic)](https://www.patersonnjhealth.gov/)
+| Site | County |
+| --- | --- |
+| [**Liss Pharmacy**](https://www.lisspharmacy.com/) | Essex | 
+| [**Project Hope**](http://projecthopecamden.org/) | Camden |
+| [**Hamilton**](https://hamiltonnj.com/health) | Mercer | 
+| [**InFocus Urgent Care**](https://www.infocusurgentcare.org/) | Mercer |
+| [**Long Beach Island**](http://lbihealth.com/) | Ocean |
+| [**Paterson**](https://www.patersonnjhealth.gov/) | Passaic |
 
 ---
 
