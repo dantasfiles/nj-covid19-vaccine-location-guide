@@ -13,6 +13,8 @@ In addition to this location information, I also have a **[list of past webinars
 | Site | County | Special | 
 | --- | --- | --- |
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Updates throughout day and adds many slots at midnight |
+| [**Teaneck**](https://www.teanecknj.gov/) | Bergen | Registration temporarily closed | 
+| [**Holy Name**](https://holyname.org/covid19) | Bergen | Registration temporarily closed |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
 |[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
 | [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
@@ -54,7 +56,6 @@ In addition to this location information, I also have a **[list of past webinars
 | Site | County |
 | --- | --- |
 | [**NJ Vaccine Scheduling System** (phone version)](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/where-how-and-when-can-i-get-vaccinated) | NJ | 855-568-0545| 
-| [**Teaneck**](https://www.teanecknj.gov/) | Bergen |
 | [**CAMCare Health**](https://www.camcare.net/) | Camden | 856-583-2400 | 
 | [**Newark**](https://www.newarknj.gov/departments/healthcommunitywellness) | Essex |973-733-7580 or 973-558-3459 | 
 | [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | 973-323-3669 | 
@@ -74,7 +75,6 @@ The following websites state that no vaccines are currently available, but to ch
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
 | [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
 | [**Paramus**](https://www.paramusborough.org/) | Bergen |
-| [**Holy Name**](https://holyname.org/covid19) | Bergen |
 | [**Haworth Apothecary**](https://haworthapothecary.com/covid-19-vaccine) | Bergen |
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
 | [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex |
