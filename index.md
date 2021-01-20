@@ -13,7 +13,7 @@ In addition to this location information, I also have a **[list of past webinars
 | Site | County | Special | 
 | --- | --- | --- |
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19-3/) | Many | |
-| [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | We have temporarily closed our COVID-19 Vaccine registration site | 
+| [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
 |[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
 | [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
 | [**Rowan Medicine**](https://rowanmedicine.com/vaccine/) | Camden | |
@@ -24,9 +24,9 @@ In addition to this location information, I also have a **[list of past webinars
 | [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | |
 | [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | Email waitlist also available | 
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
-| [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | We have temporarily closed our vaccine registration site | 
+| [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
 | [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean | COVID-19 CLINIC APPOINTMENTS ARE BOOKED FULL AT THIS TIME - MOVE TO NONE | 
-| [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | Our scheduling application is not available | 
+| [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | Registration temporarily closed | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
@@ -48,26 +48,18 @@ In addition to this location information, I also have a **[list of past webinars
 ---
 
 ## **Phone for possible appointments**
-
-[**NJ Vaccine Scheduling System** (phone version)](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/where-how-and-when-can-i-get-vaccinated)
-
-[**Teaneck** (Bergen)](https://www.teanecknj.gov/)
-
-[**Paramus** (Bergen)](https://www.paramusborough.org/)
-
-[**CAMCare Health** (Camden)](https://www.camcare.net/)
-
-[**Newark** (Essex)](https://www.newarknj.gov/departments/healthcommunitywellness)
-
-[**Newark Community Health Centers** (Essex)](http://www.nchcfqhc.org/)
-
-[**North Hudson Community Action** (Hudson)](https://nhcac.org/)
-
-[**Alliance Community Healthcare** (Hudson)](https://alliancech.org/about-the-vaccine/)
-
-[**Hunterdon Healthcare** (Hunterdon, Mercer, Somerset)](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/)
-
-[**Salem County**](https://health.salemcountynj.gov/)
+| Site | County | Special | 
+| --- | --- | --- |
+| [**NJ Vaccine Scheduling System** (phone version)](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/where-how-and-when-can-i-get-vaccinated) | NJ | | 
+| [**Teaneck**](https://www.teanecknj.gov/) | Bergen | | 
+| [**Paramus**](https://www.paramusborough.org/) | Bergen | |
+| [**CAMCare Health** (Camden)](https://www.camcare.net/) | Camden | | 
+| [**Newark**](https://www.newarknj.gov/departments/healthcommunitywellness) | Essex | | 
+| [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | | 
+| [**North Hudson Community Action**](https://nhcac.org/) | Hudson | | 
+| [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | | 
+| [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | |
+| [**Salem County**](https://health.salemcountynj.gov/) | Salem | | 
 
 ---
 
