@@ -25,7 +25,6 @@ In addition to this location information, I also have a **[list of past webinars
 | [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | Email waitlist also available | 
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
-| [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean | COVID-19 CLINIC APPOINTMENTS ARE BOOKED FULL AT THIS TIME - MOVE TO NONE | 
 | [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | Registration temporarily closed | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
@@ -106,6 +105,7 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 | [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex |
 | [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex |
 | [**Rutgers Eric B. Chandler Health Center** (Middlesex)](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | 
+| [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean |  
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | 
 | [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset |
 
