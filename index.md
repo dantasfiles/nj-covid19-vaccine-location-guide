@@ -29,6 +29,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
+| [**Salem County**](https://health.salemcountynj.gov/) | Salem | Registration temporarily closed |
 | [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Opens sporadically |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
 | [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
@@ -79,7 +80,6 @@ The following websites state that no vaccines are currently available, but to ch
 | [**JRF Community Health**](https://www.facebook.com/onepploneheart/posts/3757349644288286) | Middlesex |
 | [**JRMC**](https://www.facebook.com/JewishRenaissanceMedicalCenter/posts/4045378648816591) | Middlesex |
 | [**Long Beach Island**](http://lbihealth.com/covid-19/) | Ocean |
-| [**Salem County**](https://health.salemcountynj.gov/) | Salem |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex |
 | [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union |
 
