@@ -59,7 +59,6 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**CAMCare Health**](https://www.camcare.net/) | Camden | 856-583-2400 | 
 | [**Newark**](https://www.newarknj.gov/departments/healthcommunitywellness) | Essex |973-733-7580 or 973-558-3459 | 
 | [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | 973-323-3669 | 
-| [**North Hudson Community Action**](https://nhcac.org/) | Hudson | 201-210-0200 | 
 | [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | 551-220-4880 | 
 | [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | 908-237-4238 |
 
@@ -123,6 +122,7 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 | --- | --- |
 | [**Liss Pharmacy**](https://www.lisspharmacy.com/) | Essex | 
 | [**Project Hope**](http://projecthopecamden.org/) | Camden |
+| [**North Hudson Community Action**](https://nhcac.org/) | Hudson |
 | [**Hamilton**](https://hamiltonnj.com/health) | Mercer | 
 | [**InFocus Urgent Care**](https://www.infocusurgentcare.org/) | Mercer |
 | [**Long Beach Island**](http://lbihealth.com/) | Ocean |
