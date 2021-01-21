@@ -1,6 +1,6 @@
 # NJ COVID-19 Vaccination Unofficial Location Guide
 
-This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. *The information on this page was last updated Jan. 19.*
+This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. *The information on this page was last updated Jan. 20.*
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
 
@@ -26,7 +26,7 @@ In addition to this location information, I also have a **[list of past webinars
 | [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | Email waitlist also available | 
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
-| [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | Registration temporarily closed | 
+| [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
 | [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Opens sporadically |
