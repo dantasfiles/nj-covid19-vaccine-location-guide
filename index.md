@@ -84,8 +84,8 @@ The following websites state that no vaccines are currently available, but to ch
 | [**JRMC**](https://www.facebook.com/JewishRenaissanceMedicalCenter/posts/4045378648816591) | Middlesex |
 | [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean |
 | [**Long Beach Island**](http://lbihealth.com/covid-19/) | Ocean |
+| [**Paterson**](https://www.patersonnjhealth.gov/) | Passaic |
 | [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union |
-
 
 ---
 
@@ -127,7 +127,6 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 | [**Hamilton**](https://hamiltonnj.com/health) | Mercer | 
 | [**InFocus Urgent Care**](https://www.infocusurgentcare.org/) | Mercer |
 | [**Long Beach Island**](http://lbihealth.com/) | Ocean |
-| [**Paterson**](https://www.patersonnjhealth.gov/) | Passaic |
 
 ---
 
