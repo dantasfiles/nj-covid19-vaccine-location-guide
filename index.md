@@ -44,7 +44,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
-| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | |
+| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Registration temporarily closed |
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
 | [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris & Union | Megasite | 
 
