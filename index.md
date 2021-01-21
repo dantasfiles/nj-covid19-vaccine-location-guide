@@ -28,12 +28,14 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
 | [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
+| [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | Opens sporadically  |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
 | [**Salem County**](https://health.salemcountynj.gov/) | Salem | Registration temporarily closed |
-| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Announces sporadic openings on Facebook |
+| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Announces sporadic openings on [Facebook](https://www.facebook.com/SomersetCountyNJ/) |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | Click `Sussex County Fairgrounds` |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
 | [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
+
 
 ---
 
@@ -80,6 +82,7 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
 | [**JRF Community Health**](https://www.facebook.com/onepploneheart/posts/3757349644288286) | Middlesex |
 | [**JRMC**](https://www.facebook.com/JewishRenaissanceMedicalCenter/posts/4045378648816591) | Middlesex |
+| [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean |
 | [**Long Beach Island**](http://lbihealth.com/covid-19/) | Ocean |
 | [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union |
 
@@ -109,9 +112,7 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 | [**Henry J. Austin Health Center**](https://henryjaustin.org/covid/) | Mercer | | 
 | [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex | | 
 | [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex | | 
-| [**Rutgers Eric B. Chandler Health Center**](https://www.rwjms.rutgers.edu/eric-b-chandler-health-center/english/overview) | Middlesex | | 
-| [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean | | 
-| [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic |  | 
+| [**Rutgers Eric B. Chandler Health Center**](https://www.facebook.com/EricBChandlerHC/posts/3713215555402205) | Middlesex | |  
 
 ---
 
