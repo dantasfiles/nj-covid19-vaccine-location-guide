@@ -74,7 +74,7 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic |
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
 | [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
-| [**Haworth Apothecary**](https://haworthapothecary.com/covid-19-vaccine) | Bergen |
+| [**Haworth Apothecary**](https://haworthapothecary.com/covid-19) | Bergen |
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
 | [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex |
 | [**JRMC**](https://jrmc.us/) | Middlesex |
