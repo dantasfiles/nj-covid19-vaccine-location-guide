@@ -78,7 +78,7 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
 | [**JRF Community Health**](https://www.facebook.com/onepploneheart/posts/3757349644288286) | Middlesex |
 | [**JRMC**](https://www.facebook.com/JewishRenaissanceMedicalCenter/posts/4045378648816591) | Middlesex |
-| [**Long Beach Island** (Ocean)](http://lbihealth.com/covid-19/) | Ocean |
+| [**Long Beach Island**](http://lbihealth.com/covid-19/) | Ocean |
 | [**Salem County**](https://health.salemcountynj.gov/) | Salem |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex |
 | [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union |
