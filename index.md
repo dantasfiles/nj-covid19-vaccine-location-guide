@@ -35,16 +35,17 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 
 ---
 
-## **Sign up for email alerts**
+## **Sign up for email alerts/waitlist**
 
 | Site | County | Special | 
 | --- | --- | --- |
 |[**NJ Vaccine Scheduling System** (web version)](https://covidvaccine.nj.gov/covid-19%20vaccine/)| NJ | |
+| [**Paramus**](https://www.paramusborough.org/) | Bergen | Waitlist temporarily closed |
 | [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Megasite | 
 | [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
-| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Registration temporarily closed |
+| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Waitlist temporarily closed |
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
 | [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris & Union | Megasite | 
 
@@ -65,7 +66,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 ---
 
 ## **Not currently available**
-The following websites state that no vaccines are currently available, but to check back later. Many of them probably belong in the "online scheduling system" section, but I'm leaving them in this separate section until it's clear how they work.
+The following websites state that no vaccines are currently available, but to check back later. Many of them probably belong in the `Online Scheduling System` section, but I'm leaving them in this separate section until I can verify how they work.
 
 | Site | County | 
 | --- | --- |
@@ -73,7 +74,6 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic |
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
 | [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
-| [**Paramus**](https://www.paramusborough.org/) | Bergen |
 | [**Haworth Apothecary**](https://haworthapothecary.com/covid-19-vaccine) | Bergen |
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
 | [**JRF Community Health**](https://www.jrfnj.org/) | Middlesex |
