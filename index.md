@@ -31,7 +31,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
 | [**Salem County**](https://health.salemcountynj.gov/) | Salem | Registration temporarily closed |
 | [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Announces sporadic openings on Facebook |
-| [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | |
+| [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | Click `Sussex County Fairgrounds` |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
 | [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
 
