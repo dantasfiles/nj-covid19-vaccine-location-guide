@@ -12,7 +12,7 @@ In addition to this location information, I also have a **[list of past webinars
 
 | Site | County | Special | 
 | --- | --- | --- |
-| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Updates throughout day and adds many slots at midnight |
+| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Updates throughout day and adds many slots at midnight, Registration temporarily closed |
 | [**Teaneck**](https://www.teanecknj.gov/) | Bergen | Registration temporarily closed | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Registration temporarily closed |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
