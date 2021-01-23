@@ -134,7 +134,7 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 | [**CompleteCare**](https://completecarenj.org/) | Cumberland |
 | [**North Hudson Community Action**](https://nhcac.org/) | Hudson |
 | [**Metropolitan Family Health**](https://www.metropolitanfhn.com/) | Hudson |
-| [**Carepoint Health**] | Hudson |
+| [**Carepoint Health**](https://carepointhealth.org/) | Hudson |
 | [**Hamilton**](https://hamiltonnj.com/health) | Mercer | 
 | [**InFocus Urgent Care**](https://www.infocusurgentcare.org/) | Mercer |
 | [**Long Beach Island**](http://lbihealth.com/) | Ocean |
