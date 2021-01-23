@@ -1,6 +1,6 @@
 # NJ COVID-19 Vaccination Unofficial Location Guide
 
-This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. This page was last updated Jan. 20.
+This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. This page was last updated Jan. 23.
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
 
@@ -12,7 +12,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 
 | Site | County | Special | 
 | --- | --- | --- |
-| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Updates throughout day and adds many slots at midnight, Registration temporarily closed |
+| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Megasite |
 | [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Registration temporarily closed | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Registration temporarily closed |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
