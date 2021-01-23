@@ -24,6 +24,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**Cumberland County**](http://www.co.cumberland.nj.us/ccdoh) | Cumberland | | 
 | [**Vineland**](http://health.vinelandcity.org/vaccination-registration/) | Cumberland | | 
 | [**Essex County**](https://www.essexcovid.org/) | Essex | |
+| [**East Orange General Hospital**](https://www.evh.org/covid-19-schedule-an-appointment-page/) | Essex | Registration temporarily closed |
 | [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
@@ -50,6 +51,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
 | [**Newark**](https://www.newarknj.gov/card/coronavirus-information) | Essex | | 
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
+| [**Hoboken**](https://www.hobokennj.gov/vaccine) | Hudson | |
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
 | [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Waitlist temporarily closed |
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
@@ -79,6 +81,7 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Shoprite**](https://vaccines.shoprite.com/) | Many |
 | [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic |
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
+| [**Valley Health**](https://www.valleyhealth.com/services/covid-19-vaccine) | Bergen | 
 | [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
 | [**Haworth Apothecary**](https://haworthapothecary.com/covid-19) | Bergen |
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
@@ -123,8 +126,12 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 | Site | County |
 | --- | --- |
 | [**Liss Pharmacy**](https://www.lisspharmacy.com/) | Essex | 
+| [**St. James Health**](https://saintjameshealth.com/) | Essex |
+| [**St. Michael's Medical Center**](https://www.smmcnj.com/) | Essex |
 | [**Project Hope**](http://projecthopecamden.org/) | Camden |
+| [**CompleteCare**](https://completecarenj.org/) | Cumberland |
 | [**North Hudson Community Action**](https://nhcac.org/) | Hudson |
+| [**Carepoint Health**] | Hudson |
 | [**Hamilton**](https://hamiltonnj.com/health) | Mercer | 
 | [**InFocus Urgent Care**](https://www.infocusurgentcare.org/) | Mercer |
 | [**Long Beach Island**](http://lbihealth.com/) | Ocean |
