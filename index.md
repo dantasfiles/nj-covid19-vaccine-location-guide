@@ -14,6 +14,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | Site | County | Special | 
 | --- | --- | --- |
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Megasite |
+| [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Megasite |  
 | [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Opens sporadically | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Opens sporadically |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
@@ -47,6 +48,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**Paramus**](https://www.paramusborough.org/) | Bergen | Waitlist temporarily closed |
 | [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Megasite | 
 | [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Camden & Essex | |
+| [**Newark**](https://www.newarknj.gov/card/coronavirus-information) | Essex | | 
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
 | [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Waitlist temporarily closed |
@@ -63,7 +65,6 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | --- | --- |
 | [**NJ Vaccine Scheduling System** (phone version)](https://covid19.nj.gov/faqs/nj-information/slowing-the-spread/where-how-and-when-can-i-get-vaccinated) | NJ | 855-568-0545| 
 | [**CAMCare Health**](https://www.camcare.net/) | Camden | 856-583-2400 | 
-| [**Newark**](https://www.newarknj.gov/departments/healthcommunitywellness) | Essex |973-733-7580 or 973-558-3459 | 
 | [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | 973-323-3669 | 
 | [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | 551-220-4880 | 
 | [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | 908-237-4238 |
@@ -104,7 +105,7 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 
 | Site | County | Special |
 | --- | --- | --- |
-| [**AtlanticCare**](https://www.atlanticare.org/patients-and-visitors/coronavirus-safety-and-information/covid-vaccination-distribution-information) | Atlantic | |  
+
 | [**Cape May County**](https://capemaycountynj.gov/226/Health-Department) | Cape May | | 
 | [**Inspira Health**](https://www.inspirahealthnetwork.org/news/covid-19-vaccine-update) | Cumberland | | 
 | [**Gloucester County**](https://www.gloucestercountynj.gov/1168/COVID-19-Vaccinations) | Gloucester | Megasite | 
