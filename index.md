@@ -9,12 +9,13 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 ---
 
 ## **Search for appointments on online scheduling system**
+*If listing is "opens sporadically," put a notification on their facebook page as described above*
 
 | Site | County | Special | 
 | --- | --- | --- |
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Megasite |
-| [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Registration temporarily closed | 
-| [**Holy Name**](https://holyname.org/covid19) | Bergen | Registration temporarily closed |
+| [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Opens sporadically | 
+| [**Holy Name**](https://holyname.org/covid19) | Bergen | Opens sporadically |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
 |[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
 | [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
@@ -23,15 +24,14 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**Vineland**](http://health.vinelandcity.org/vaccination-registration/) | Cumberland | | 
 | [**Essex County**](https://www.essexcovid.org/) | Essex | |
 | [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
-| [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | Email waitlist also available | 
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
 | [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | Opens sporadically  |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
-| [**Salem County**](https://health.salemcountynj.gov/) | Salem | Registration temporarily closed |
-| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Announces sporadic openings on [Facebook](https://www.facebook.com/SomersetCountyNJ/) |
+| [**Salem County**](https://health.salemcountynj.gov/) | Salem | Opesn sporadically  |
+| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Opens sporadically |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | Click `Sussex County Fairgrounds` |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
 | [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
@@ -51,6 +51,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Middlesex | Megasite | 
 | [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Waitlist temporarily closed |
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
+| [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | | 
 | [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris & Union | Megasite | 
 
 ---
