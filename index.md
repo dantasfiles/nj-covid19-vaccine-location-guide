@@ -13,8 +13,8 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 
 | Site | County | Special | 
 | --- | --- | --- |
-| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Megasite |
 | [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Megasite |  
+| [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Bergen & others | Megasite |
 | [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Opens sporadically | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Opens sporadically |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
@@ -105,7 +105,6 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 
 | Site | County | Special |
 | --- | --- | --- |
-
 | [**Cape May County**](https://capemaycountynj.gov/226/Health-Department) | Cape May | | 
 | [**Inspira Health**](https://www.inspirahealthnetwork.org/news/covid-19-vaccine-update) | Cumberland | | 
 | [**Gloucester County**](https://www.gloucestercountynj.gov/1168/COVID-19-Vaccinations) | Gloucester | Megasite | 
