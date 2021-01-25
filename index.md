@@ -15,6 +15,7 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | --- | --- | --- |
 | [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Atlantic Megasite |  
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Bergen Megasite |
+| [**Shoprite**](https://vaccines.shoprite.com/) | Many | |
 | [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Opens sporadically | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Opens sporadically |
 | [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | | 
@@ -79,7 +80,6 @@ The following websites state that no vaccines are currently available, but to ch
 
 | Site | County | 
 | --- | --- |
-| [**Shoprite**](https://vaccines.shoprite.com/) | Many |
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
 | [**Valley Health**](https://www.valleyhealth.com/services/covid-19-vaccine) | Bergen | 
 | [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
