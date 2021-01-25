@@ -4,12 +4,10 @@ This page simplifies the information from the official NJ location list into a f
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
 
-Tip: Follow the Facebook page of the location you are trying to use. Click  `...` -> `Follow Settings` -> `Notifications` -> `Posts` -> `Standard` to have your phone buzz when the location makes a new post, hopefully about vaccine availability. For more tips, **[view a list of past webinars on NJ vaccine distribution](presentations)**
-
 ---
 
 ## **Search for appointments on online scheduling system**
-*If listing is "opens sporadically," put a notification on their facebook page as described above*
+*Many of these locations only open their registration pages for brief periods as they receive vaccine doses. To be able to reserve a spot, follow the Facebook page of the location you are trying to use. Click  `...` -> `Follow Settings` -> `Notifications` -> `Posts` -> `Standard` to have your phone buzz when the location makes a new post, hopefully about vaccine availability. *
 
 | Site | County | Special | 
 | --- | --- | --- |
