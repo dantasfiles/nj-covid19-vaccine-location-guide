@@ -7,7 +7,7 @@ This page simplifies the information from the official NJ location list into a f
 ---
 
 ## **Search for appointments on online scheduling system**
-*Many of these locations only open their registration pages for brief periods as they receive vaccine doses. To be able to reserve a spot, follow the Facebook page of the location you are trying to use. Click  `...` -> `Follow Settings` -> `Notifications` -> `Posts` -> `Standard` to have your phone buzz when the location makes a new post, hopefully about vaccine availability. *
+*Many of these locations only open their registration pages for brief periods as they receive vaccine doses. To be able to reserve a spot, follow the Facebook page of the location you are trying to use. Click*  `...` -> `Follow Settings` -> `Notifications` -> `Posts` -> `Standard` *to have your phone buzz when the location makes a new post, hopefully about vaccine availability. *
 
 | Site | County | Special | 
 | --- | --- | --- |
