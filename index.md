@@ -110,8 +110,8 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 | --- | --- | --- |
 | [**Cape May County**](https://capemaycountynj.gov/226/Health-Department) | Cape May | | 
 | [**Inspira Health**](https://www.inspirahealthnetwork.org/news/covid-19-vaccine-update) | Cumberland | | 
-| [**Gloucester County**](https://www.gloucestercountynj.gov/1168/COVID-19-Vaccinations) | Gloucester | Megasite | 
-| [**Rowan College of South Jersey**](https://www.rcsj.edu/vaccine) | Gloucester | Megasite | 
+| [**Gloucester County**](https://www.gloucestercountynj.gov/1168/COVID-19-Vaccinations) | Gloucester | Gloucester Megasite | 
+| [**Rowan College of South Jersey**](https://www.rcsj.edu/vaccine) | Gloucester | Gloucester Megasite | 
 | [**North Bergen**](https://www.northbergen.org/Departments/health) | Hudson |  | 
 | [**Henry J. Austin Health Center**](https://henryjaustin.org/covid/) | Mercer | | 
 | [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex | | 
