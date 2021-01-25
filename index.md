@@ -13,26 +13,27 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 
 | Site | County | Special | 
 | --- | --- | --- |
+| [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Atlantic Megasite |  
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Bergen Megasite |
-| [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Megasite |  
 | [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Opens sporadically | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Opens sporadically |
-| [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | Registration temporarily closed | 
+| [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | | 
 |[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
 | [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
 | [**Rowan Medicine**](https://rowanmedicine.com/vaccine/) | Camden | |
 | [**Cumberland County**](http://www.co.cumberland.nj.us/ccdoh) | Cumberland | | 
 | [**Vineland**](http://health.vinelandcity.org/vaccination-registration/) | Cumberland | | 
 | [**Essex County**](https://www.essexcovid.org/) | Essex | |
-| [**East Orange General Hospital**](https://www.evh.org/covid-19-schedule-an-appointment-page/) | Essex | Registration temporarily closed |
+| [**East Orange General Hospital**](https://www.evh.org/covid-19-schedule-an-appointment-page/) | Essex | |
 | [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
-| [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | Registration temporarily closed | 
+| [**CentraState**](https://www.centrastate.com/vaccine-update/) | Monmouth |
+| [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | | 
 | [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | Opens sporadically  |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
-| [**Salem County**](https://health.salemcountynj.gov/) | Salem | Opesn sporadically  |
+| [**Salem County**](https://health.salemcountynj.gov/) | Salem | Opens Mondays  |
 | [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Opens sporadically |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | Click `Sussex County Fairgrounds` |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
@@ -47,17 +48,16 @@ Tip: Follow the Facebook page of the location you are trying to use. Click  `...
 | Site | County | Special | 
 | --- | --- | --- |
 | [**NJ Vaccine Scheduling System** (web version)](https://covidvaccine.nj.gov/covid-19%20vaccine/)| NJ | |
-| [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Many | |
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Many | Middlesex Megasite | 
-| [**Paramus**](https://www.paramusborough.org/) | Bergen | Waitlist temporarily closed |
-| [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Megasite | 
+| [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Burlington Megasite | 
+| [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris, Sussex, Union | Morris Megasite | 
+| [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Many | |
 | [**Newark**](https://www.newarknj.gov/card/coronavirus-information) | Essex | | 
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**Hoboken**](https://www.hobokennj.gov/vaccine) | Hudson | |
 | [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Waitlist temporarily closed |
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
 | [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | | 
-| [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris, Sussex, Union | Morris Megasite | 
 
 ---
 
@@ -80,7 +80,6 @@ The following websites state that no vaccines are currently available, but to ch
 | Site | County | 
 | --- | --- |
 | [**Shoprite**](https://vaccines.shoprite.com/) | Many |
-| [**Atlantic County**](https://www.atlantic-county.org/covid/covid-vaccinations.asp) | Atlantic |
 | [**MediLink RxCare**](https://medilinkrxcare.com/) | Atlantic |
 | [**Valley Health**](https://www.valleyhealth.com/services/covid-19-vaccine) | Bergen | 
 | [**Bergen County**](https://www.co.bergen.nj.us/) | Bergen |
@@ -88,7 +87,6 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Boyd's Pharmacy**](https://boydsrxs.com/) | Burlington |
 | [**JRF Community Health**](https://www.facebook.com/onepploneheart/posts/3757349644288286) | Middlesex |
 | [**JRMC**](https://www.facebook.com/JewishRenaissanceMedicalCenter/posts/4045378648816591) | Middlesex |
-| [**CentraState**](https://www.centrastate.com/vaccine-update/) | Monmouth |
 | [**Ocean County**](https://www.ochd.org/covid19-vaccine-update/) | Ocean |
 | [**Long Beach Island**](http://lbihealth.com/covid-19/) | Ocean |
 | [**Paterson**](https://www.patersonnjhealth.gov/) | Passaic |
