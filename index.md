@@ -26,6 +26,7 @@ This page simplifies the information from the official NJ location list into a f
 | [**Essex County**](https://www.essexcovid.org/) | Essex | |
 | [**East Orange General Hospital**](https://www.evh.org/covid-19-schedule-an-appointment-page/) | Essex | |
 | [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
+| [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | |
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**CentraState**](https://www.centrastate.com/vaccine-update/) | Monmouth |
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | | 
@@ -70,7 +71,6 @@ This page simplifies the information from the official NJ location list into a f
 | [**CAMCare Health**](https://www.camcare.net/) | Camden | 856-583-2400 | 
 | [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | 973-323-3669 | 
 | [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | 551-220-4880 | 
-| [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | 908-237-4238 |
 
 ---
 
