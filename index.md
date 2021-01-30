@@ -1,6 +1,6 @@
 # NJ COVID-19 Vaccination Simplified Unofficial Location Guide
 
-This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. This page was last updated Jan. 25.
+This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. This page was last updated Jan. 26.
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
 
@@ -11,9 +11,10 @@ This page simplifies the information from the official NJ location list into a f
 
 | Site | County | Special | 
 | --- | --- | --- |
-| [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Atlantic Megasite |  
+| [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Atlantic Megasite, Opens Jan. 26th @ 3pm |  
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Bergen Megasite |
 | [**Shoprite**](https://vaccines.shoprite.com/) | Many | |
+| [**Riverside Medical Group**](https://www.riversidemedgroup.com/important-announcement-for-healthcare-workers/) | Many | |
 | [**Valley Health**](https://www.valleyhealth.com/services/covid-19-vaccine) | Bergen | 
 | [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Opens sporadically | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Opens sporadically |
@@ -35,7 +36,6 @@ This page simplifies the information from the official NJ location list into a f
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | Opens sporadically  |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
 | [**Salem County**](https://health.salemcountynj.gov/) | Salem | Opens Mondays  |
-| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset | Opens sporadically |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | Click `Sussex County Fairgrounds` |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
 | [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
@@ -52,7 +52,6 @@ This page simplifies the information from the official NJ location list into a f
 | [**RWJBarnabas Health**](https://www.rwjbh.org/patients-visitors/what-you-need-to-know-about-covid-19/schedule-a-vaccine/covid-19-vaccine-appointment-request-form/) | Many | Middlesex Megasite | 
 | [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Burlington Megasite | 
 | [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris, Sussex, Union | Morris Megasite | 
-| [**Riverside Medical Group**](https://www.facebook.com/RiversideMedicalGroup/posts/1757851001037800) | Many | |
 | [**Newark**](https://www.newarknj.gov/card/coronavirus-information) | Essex | | 
 | [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**Hoboken**](https://www.hobokennj.gov/vaccine) | Hudson | |
@@ -115,6 +114,7 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 | [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex | | 
 | [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex | | 
 | [**Rutgers Eric B. Chandler Health Center**](https://www.facebook.com/EricBChandlerHC/posts/3713215555402205) | Middlesex | |  
+| [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset |  |
 
 ---
 
