@@ -31,7 +31,6 @@ This page simplifies the information from the official NJ location list into a f
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**CentraState**](https://www.centrastate.com/vaccine-update/) | Monmouth |
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | | 
-| [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | Opens sporadically  |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
@@ -70,6 +69,7 @@ This page simplifies the information from the official NJ location list into a f
 | [**CAMCare Health**](https://www.camcare.net/) | Camden | 856-583-2400 | 
 | [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | 973-323-3669 | 
 | [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | 551-220-4880 | 
+| [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | 732-523-7955 | 
 
 ---
 
