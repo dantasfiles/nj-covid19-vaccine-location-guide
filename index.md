@@ -16,16 +16,16 @@ This page simplifies the information from the official NJ location list into a f
 | [**Valley Health**](https://www.valleyhealth.com/services/covid-19-vaccine) | Bergen | 
 | [**Teaneck**](https://www.teanecknj.gov/COVID-19Vaccine) | Bergen | Opens sporadically | 
 | [**Holy Name**](https://holyname.org/covid19) | Bergen | Opens sporadically |
-| [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem | | 
-|[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | |
+| [**Southern Jersey Family Medical Centers**](https://www.sjfmc.org) | Atlantic, Burlington, Salem |  | 
+|[**Burlington County**](http://www.co.burlington.nj.us/1845/2019-Novel-Coronavirus-Information) | Burlington | Healthcare workers only |
 | [**Camden County**](https://www.camdencounty.com/vaccineregistration/) | Camden | |
 | [**Rowan Medicine**](https://rowanmedicine.com/vaccine/) | Camden | |
 | [**Cumberland County**](http://www.co.cumberland.nj.us/ccdoh) | Cumberland | | 
 | [**Vineland**](http://health.vinelandcity.org/vaccination-registration/) | Cumberland | | 
 | [**Essex County**](https://www.essexcovid.org/) | Essex | |
 | [**East Orange General Hospital**](https://www.evh.org/covid-19-schedule-an-appointment-page/) | Essex | |
-| [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
-| [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
+| [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | Residents or workers in county only | 
+| [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | Residents or workers in county only |
 | [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | |
 | [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | |
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
