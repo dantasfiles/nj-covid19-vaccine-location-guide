@@ -4,8 +4,6 @@ This page simplifies the information from the official NJ location list into a f
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
 
----
-
 ## **Search for appointments on online scheduling system**
 *Many of these locations only open their registration pages for brief periods as they receive vaccine doses. To be able to reserve a spot, follow the Facebook page of the location you are trying to use. Click*  `...` -> `Follow Settings` -> `Notifications` -> `Posts` -> `Standard` *to have your phone buzz when the location makes a new post, hopefully about vaccine availability. *
 
@@ -26,22 +24,21 @@ This page simplifies the information from the official NJ location list into a f
 | [**Vineland**](http://health.vinelandcity.org/vaccination-registration/) | Cumberland | | 
 | [**Essex County**](https://www.essexcovid.org/) | Essex | |
 | [**East Orange General Hospital**](https://www.evh.org/covid-19-schedule-an-appointment-page/) | Essex | |
+| [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**Hunterdon County**](https://www.co.hunterdon.nj.us/Coronavirus/clinics.html) | Hunterdon | |
 | [**Hunterdon Healthcare**](https://www.hunterdonhealthcare.org/when-can-i-get-the-covid-19-vaccine/) | Hunterdon, Mercer, Somerset | |
+| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | |
 | [**VNACJ Community Health Center**](https://vnachc.org/) | Monmouth | | 
 | [**CentraState**](https://www.centrastate.com/vaccine-update/) | Monmouth |
 | [**Ocean Health Initiatives**](https://ohinj.org/vaccine-consent-landing/) | Monmouth & Ocean | | 
 | [**Passaic County**](https://www.passaiccountynj.org/government/departments/health/current_health_alerts.php#Vaccination) | Passaic | |
 | [**Clifton**](https://www.cliftonnj.org/342/Coronavirus-2019-COVID-19) | Passaic | Opens sporadically  |
 | [**Wayne**](https://www.waynetownship.com/covid-19-vaccine-consent.html) | Passaic | |
-| [**Salem County**](https://health.salemcountynj.gov/) | Salem | Opens Mondays  |
+| [**Salem County**](https://health.salemcountynj.gov/) | Salem |  |
 | [**Sussex County**](https://www.sussex.nj.us/cn/webpage.cfm?tpid=17480) | Sussex | Click `Sussex County Fairgrounds` |
 | [**Union County**](https://ucnjvaccine.org/) | Union | | 
 | [**Warren County**](http://www.co.warren.nj.us/Healthdept/WCCOVIDVaccine.html) | Warren | | 
 | [**St. Luke's**](https://www.slhn.org/covid-19/protect-yourself/covid-19-vaccine) | Warren | |
-
-
----
 
 ## **Sign up for email alerts/waitlist**
 
@@ -52,13 +49,9 @@ This page simplifies the information from the official NJ location list into a f
 | [**Virtua Health**](https://www.virtua.org/vaccine) | Burlington | Burlington Megasite | 
 | [**Atlantic Health**](https://www.atlantichealth.org/conditions-treatments/coronavirus-covid-19/covid-vaccine.html#alerts) | Morris, Sussex, Union | Morris Megasite | 
 | [**Newark**](https://www.newarknj.gov/card/coronavirus-information) | Essex | | 
-| [**Hudson County**](http://hudsoncovidvax.org/) | Hudson | | 
 | [**Hoboken**](https://www.hobokennj.gov/vaccine) | Hudson | |
-| [**Penn Medicine Princeton Health**](https://www.princetonhcs.org/) | Mercer | Waitlist temporarily closed |
 | [**Princeton**](http://www.princetonnj.gov/) | Mercer | | 
 | [**Monmouth County**](https://www.co.monmouth.nj.us/page.aspx?ID=1932) | Monmouth | | 
-
----
 
 ## **Phone for possible appointments**
 **Check your eligibility on the websites *before* you call**
@@ -70,8 +63,6 @@ This page simplifies the information from the official NJ location list into a f
 | [**Newark Community Health Centers**](http://www.nchcfqhc.org/) | Essex | 973-323-3669 | 
 | [**Alliance Community Healthcare**](https://alliancech.org/about-the-vaccine/) | Hudson | 551-220-4880 | 
 | [**CHEMED**](https://www.chemedhealth.org/news/519/covid-vaccine-scheduling-information/) | Ocean | 732-523-7955 | 
-
----
 
 ## **Not currently available**
 The following websites state that no vaccines are currently available, but to check back later. Many of them probably belong in the `Online Scheduling System` section, but I'm leaving them in this separate section until I can verify how they work.
@@ -89,16 +80,12 @@ The following websites state that no vaccines are currently available, but to ch
 | [**Paterson**](https://www.patersonnjhealth.gov/) | Passaic |
 | [**Summit Medical Group**](https://www.summitmedicalgroup.com/coronavirus-updates) | Union |
 
----
-
 ## **Only for Current Patients** 
 
 | Site | County |
 | --- | --- |
 | [**Vanguard Medical**](https://vanguardmedgroup.com/) | Essex | 
 | [**Zufall Health**](https://www.zufallhealth.org/) | Morris | 
-
----
 
 ## **NJ Vaccine Scheduling System (NJVSS)**
 The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS)**](https://covidvaccine.nj.gov/covid-19%20vaccine/) for their scheduling.
@@ -111,12 +98,11 @@ The following locations appear to use the [**NJ Vaccine Scheduling System (NJVSS
 | [**Rowan College of South Jersey**](https://www.rcsj.edu/vaccine) | Gloucester | Gloucester Megasite | 
 | [**North Bergen**](https://www.northbergen.org/Departments/health) | Hudson |  | 
 | [**Henry J. Austin Health Center**](https://henryjaustin.org/covid/) | Mercer | | 
+| [**Hamilton**](https://hamiltonnj.com/health) | Mercer | |
 | [**Middlesex County**](http://www.middlesexcountynj.gov/Government/Departments/PSH/Pages/COVID-19-Vaccine-Registration.aspx) | Middlesex | | 
 | [**Woodbridge**](https://www.twp.woodbridge.nj.us/198/Health-Human-Services) | Middlesex | | 
 | [**Rutgers Eric B. Chandler Health Center**](https://www.facebook.com/EricBChandlerHC/posts/3713215555402205) | Middlesex | |  
 | [**Somerset County**](https://www.co.somerset.nj.us/government/public-health-safety/health-department/covid-19-vaccination) | Somerset |  |
-
----
 
 ## **Unknown**
 The following sites were listed as vaccine locations, but I couldn't find any information on their websites.
@@ -131,7 +117,6 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 | [**North Hudson Community Action**](https://nhcac.org/) | Hudson |
 | [**Metropolitan Family Health**](https://www.metropolitanfhn.com/) | Hudson |
 | [**Carepoint Health**](https://carepointhealth.org/) | Hudson |
-| [**Hamilton**](https://hamiltonnj.com/health) | Mercer | 
 | [**InFocus Urgent Care**](https://www.infocusurgentcare.org/) | Mercer |
 | [**Long Beach Island**](http://lbihealth.com/) | Ocean |
 | [**St. Joseph's**](https://www.stjosephshealth.org/) | Passaic |
