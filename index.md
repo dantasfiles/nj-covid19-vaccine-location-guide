@@ -123,6 +123,8 @@ The following sites were listed as vaccine locations, but I couldn't find any in
 | [**St. Mary's**](https://www.smh-nj.com/) | Passaic |
 | [**Rahway**](https://www.cityofrahway.org/departments/health-housing-services/covid/) | Union |
 
----
+##Other Useful Websites
+[**N.J. volunteer and crowd-sourced vaccination site and registration info**](https://docs.google.com/spreadsheets/d/1yXz70DQqF_I6hvVfXPADw6QNZ6R63bx1v27qBfdxBuc)
+[**NJ Covid Vaccine Appointment Tips**](https://docs.google.com/document/d/1u4wm-5wh5CSZY6OQNnSclX0aL7GxiddtZKgpy9buDXA/edit?fbclid=IwAR2VwPxN41HiXXjBkBOjU0BxiO37saaPZJenFN8yALyP7Xz6Xhz2meYNlkE)
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
