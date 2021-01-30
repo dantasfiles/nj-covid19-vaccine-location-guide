@@ -1,6 +1,6 @@
 # NJ COVID-19 Vaccination Simplified Unofficial Location Guide
 
-This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. This page was last updated Jan. 26.
+This page simplifies the information from the official NJ location list into a format that's easier to act on. Please [contact me](https://github.com/dantasfiles) with any corrections or suggestions. This page was last updated Jan. 30.
 
 > *This page is not affiliated with the state of NJ nor any of the healthcare providers listed here. The information here may be inaccurate or out-of-date. New Jersey has an **[official COVID-19 vaccine location list](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)**. Please visit that page for the most up-to-date and accurate information.*
 
@@ -9,7 +9,7 @@ This page simplifies the information from the official NJ location list into a f
 
 | Site | County | Special | 
 | --- | --- | --- |
-| [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Atlantic Megasite, Opens Jan. 26th @ 3pm |  
+| [**AtlanticCare**](https://vaccination.atlanticare.org/) | Atlantic | Atlantic Megasite |  
 | [**Hackensack Meridian Health**](https://www.hackensackmeridianhealth.org/covid19/) | Many | Bergen Megasite |
 | [**Shoprite**](https://vaccines.shoprite.com/) | Many | |
 | [**Riverside Medical Group**](https://www.riversidemedgroup.com/important-announcement-for-healthcare-workers/) | Many | |
